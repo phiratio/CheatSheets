@@ -1,0 +1,8 @@
+
+https://github.com/kus/php-image
+
+http://stackoverflow.com/questions/21155392/need-to-create-an-random-sentence-from-a-given-sentence
+
+https://developers.facebook.com/tools/debug/accesstoken?__mref=message_bubble
+
+https://blockadblock.com/configure.php

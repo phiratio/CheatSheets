@@ -1,0 +1,11 @@
+- FONT insert http://stackoverflow.com/questions/12144000/using-custom-fonts-using-css
+
+- Speedy shipping : http://www.opencart.com/index.php?route=extension/extension/info&extension_id=16765
+https://www.speedy.bg/bg/online-shop-integration
+
+- Econt shipping:  http://www.opencart.com/index.php?route=extension/extension/info&extension_id=4916&filter_search=ekont
+
+
+http://www.xe.com/symbols.php кодовете на всички парични валути в държавите
+
+

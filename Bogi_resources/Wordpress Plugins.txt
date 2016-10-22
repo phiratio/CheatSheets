@@ -1,0 +1,45 @@
+B
+- BuddyPress   
+C
+- Contact Form 7     
+- Contact Form 7 Skins     
+- Contact Form 7 Style ( Moje da si customize-vate vasha forma mn e gotino )
+F
+- Facebook debugger
+- Favicon by RealFaviconGenerator  
+G
+- Google Analytics Dashboard for WP    
+J
+- Jetpack by WordPress.com    
+L
+- Loco translate
+M
+- Meta Slider     
+- Max Mega Menu    
+N
+- NextScripts: Social Networks Auto
+- NextGEN Gallery by Photocrati    
+P
+- Polylang
+- Page Builder by SiteOrigin    
+R
+- RichTextEditor For WordPress   
+S
+- Smart Manager  
+U
+- User submitted posts
+W
+- All-in-One WP Migration
+- Woocommerce    
+- Woocommerce menu cart    
+- Widget Wrangler     
+- WP Google Map Plugin   
+Y
+- Yoast SEO    
+I
+- Indira gallery
+
+
+
+
+

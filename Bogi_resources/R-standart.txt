@@ -1,0 +1,8 @@
+- SmoothScroll.js
+- Material Design
+- нещото долу в ъгъла с 3те точки (optional) - виж demo5
+- готини shadow ефекти (https://paulund.co.uk/learn-css-box-shadow)
+- Chrome Theme Color - https://developers.google.com/web/fundamentals/design-and-ui/browser-customization/theme-color?hl=en
+- custom (готен) scrollbar
+- loading screen 
+
